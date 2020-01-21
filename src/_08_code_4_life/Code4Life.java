@@ -29,7 +29,7 @@ public static void main(String[] args) {
 	JOptionPane.showMessageDialog(null, "you're a code ninja");
 	}
 	// 4. If it is more than 5, call the method below to play the Batman theme song.
-	if (ans < 5);
+	if (ans > 5);
 	playBatmanTheme();
 }
 	private static void playBatmanTheme() {
